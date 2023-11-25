@@ -1,4 +1,4 @@
-test
+test.txt
 build
 *.log
 !/bin/run.sh
