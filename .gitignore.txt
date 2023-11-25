@@ -1,4 +1,22 @@
 test.txt
-build
-*.log
-!/bin/run.sh
+
+# Gradle
+build/
+
+# Libraries
+*.lvlibp
+*.llb
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+
+# Metadata
+*.aliases
+*.lvlps
+.cache/
