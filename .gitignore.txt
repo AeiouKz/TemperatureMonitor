@@ -1,0 +1,4 @@
+test
+build
+*.log
+!/bin/run.sh
